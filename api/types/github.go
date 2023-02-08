@@ -27,7 +27,7 @@ import (
 	"github.com/gravitational/teleport/api/utils"
 )
 
-const githubURL = "https://github.com"
+const githubURL = "https://bits.linode.com"
 
 // GithubConnector defines an interface for a Github OAuth2 connector
 type GithubConnector interface {
